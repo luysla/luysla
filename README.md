@@ -1,11 +1,7 @@
-<img src="https://image.flaticon.com/icons/png/512/4472/4472726.png" height="auto" width="150px" align="right" alt="Ilustração de um computador">
 
 ```
 Hi, i'm Luysla Dyana! 🌼
-Developer at 121 Labs
-
-💜 I'm student (always learning) and developer   
-🌱 I’m currently learning 'React Native', 'Docker'...
+Web and Mobile Developer 💜   
 ```
 
 <p align="left">
