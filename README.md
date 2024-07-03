@@ -13,10 +13,6 @@ Web and Mobile Developer 💜
   
   <a href="https://dev.to/luysla" alt="Dev.to">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  
-  <a href="https://www.instagram.com/_dyanadev/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p> 
 
 <p align="center">☕️ <b>Stats</b></p>
