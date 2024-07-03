@@ -1,7 +1,7 @@
 
 ```
 Hi, i'm Luysla Dyana! 🌼
-Web and Mobile Developer 💜   
+Junior Developer 💜   
 ```
 
 <p align="left">
