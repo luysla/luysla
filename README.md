@@ -1,7 +1,6 @@
 
 ```
 Hi, i'm Luysla Dyana! 🌼
-Junior Developer 💜   
 ```
 
 <p align="left">
